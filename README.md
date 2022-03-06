@@ -1,6 +1,7 @@
 # TrickBot Leaks
 
 Repo for archiving research and investigation related to the recent Trickbot leaks.
+
 The repo will contain personally identifiable information of several Ransomware & Botnet operators.
 
 ---
