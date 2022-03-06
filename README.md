@@ -14,23 +14,24 @@ If you are interested in the backup of the information you can reaching out to m
 
 ---
 # Leaked Members List
-Using the Twitter handles [@TrickBotLeaks](https://twitter.com/trickbotleaks) (suspended) and [@TrickLeaks](https://twitter.com/trickleaks) an unknown actor, believed to be named _Тетяна Кухарська_ according to Document metadata, has released personally identifiable information of supposed Trickbot members.
+Using the Twitter handles [@TrickBotLeaks](https://twitter.com/trickbotleaks) (suspended) and [@TrickLeaks](https://twitter.com/trickleaks) an unknown actor has released personally identifiable information of supposed Trickbot members.
 
 I intend to do a form of deep-dive on every individual listed:
-1. [Tesman Georgy Sergeevich](members/core) (core, egor)
-2. [Vakhromeev Ivan](members/mushroom) (mushroom, royal)
-3. [Valiakhmetov Vadym Firdavysovych](members/weldon) (weldon, Vasm, VadimVdx, mentos)
-4. [Mikhailov Maxim Sergeevich](members/baget) (baget, MaxMS76, vnc)
-5. [Valery Sedletski](members/strix) (strix, valerius)
-6. [Kiselyov Dmitry Sergeevich](members/allen) (allen)
-7. [Galochkin Maxim Sergeevich](members/bentley) (bentley)
-8. [Sergey Loguntsov](members/zulas) (zulas)
+1. [Anton Alexandrovich Bragin](members/hector) (hector)
+2. [Cherepanov Andrey Andreevich](members/basil) (basil, fast, faster)
+3. [Galochkin Maxim Sergeevich](members/manuel) (bentley)
+4. [Grigoriev Daniil Olegovich](members/fire) (fire, geralemur, skippy, lemur)
+5. [Kiselyov Dmitry Sergeevich](members/allen) (allen)
+6. [Korneyev Roman Viktorovych](members/liam) (liam)
+7. [Mikhailov Maxim Sergeevich](members/baget) (baget, MaxMS76, vnc)
+8. [Mozhaev Alexander Vyacheslavovich](members/green) (green, rocco)
 9. [Osipov Oleg Vasylevych](members/frog) (frog, geraldo)
-10. [Mozhaev Alexander Vyacheslavovich](members/green) (green, rocco)
-11. [Anton Alexandrovich Bragin](members/hector) (hector)
-12. [Korneyev Roman Viktorovych](members/liam) (liam)
-13. [Cherepanov Andrey Andreevich](members/basil) (basil, fast, faster)
-14. [Grigoriev Daniil Olegovich](members/fire) (fire, geralemur, skippy, lemur)
+10. [Polyak Valerievich](members/cypher) (cypher)
+11. [Sergey Loguntsov](members/zulas) (zulas)
+12. [Tesman Georgy Sergeevich](members/core) (core, egor)
+13. [Vakhromeev Ivan](members/mushroom) (mushroom, royal)
+14. [Valery Sedletski](members/strix) (strix, valerius)
+15. [Valiakhmetov Vadym Firdavysovych](members/weldon) (weldon, Vasm, VadimVdx, mentos)
 ---
 # Discussed Websites
 Recent communication leaks between Trickbot members show a diverse range of sites being linked.  Following is a list of alive, and dead sites.
