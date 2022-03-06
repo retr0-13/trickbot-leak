@@ -14,7 +14,7 @@ If you are interested in the backup of the information you can reaching out to m
 
 ---
 # Leaked Members List
-Using the Twitter handles [@TrickBotLeaks](https://twitter.com/trickbotleaks) (suspended) and [@TrickLeaks](https://twitter.com/trickleaks) an unknown actor, believed to be named _Тетяна Кухарська_ according to Document metadata, has released personally identifiable information of supposed Trickbot members.
+Using the Twitter handles [@TrickBotLeaks](https://twitter.com/trickbotleaks) (suspended) and [@TrickLeaks](https://twitter.com/trickleaks) an unknown actor has released personally identifiable information of supposed Trickbot members.
 
 I intend to do a form of deep-dive on every individual listed:
 1. [Anton Alexandrovich Bragin](members/hector) (hector)
