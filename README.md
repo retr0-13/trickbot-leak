@@ -69,7 +69,7 @@ Sites discussed that are currently alive and likely host infrastructure, malware
 	manuel: и следующее окно
 	translated: and window after
   ```
-- [Screenshot showcasing bash run of "builderforlocker.exe"](screenshots/t8jd25.png)
+- [Screenshot showcasing command run of "builderforlocker.exe"](screenshots/t8jd25.png)
 
 
 ### This is work in progress.
