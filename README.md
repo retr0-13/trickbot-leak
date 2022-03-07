@@ -63,7 +63,7 @@ Sites discussed that are currently alive and likely host infrastructure, malware
   manuel: После перезапуска окно с ошибкой
 	translated: Error window after restart
   ```
-- ["There was a problem starting"](http://prntscr.com/1j37nwh.png)
+- ["There was a problem starting"](screenshots/1j37nwh.png)
 
   ```
 	manuel: и следующее окно
