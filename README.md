@@ -10,7 +10,7 @@ Repo for archiving research and investigation related to the recent Trickbot lea
 
 The repo will contain personally identifiable information of several Conti Ransomware & TrickBot operators released by twitter accounts TrickLeaks/ContiLeaks.
 
-If you are interested in the backup of the information you can reaching out to me on Twitter or by opening issue.
+If you are interested in the backup of the information you can reach out to me on Twitter or by opening an issue.
 
 ---
 # Leaked Members List
@@ -34,7 +34,7 @@ I intend to do a form of deep-dive on every individual listed:
 15. [Valiakhmetov Vadym Firdavysovych](members/weldon) (weldon, Vasm, VadimVdx, mentos)
 ---
 # Discussed Websites
-Recent communication leaks between Trickbot members show a diverse range of sites being linked.  Following is a list of alive, and dead sites.
+The recent communication leaks between Trickbot members show a diverse range of sites being linked. Following is a list of alive sites (at the time of writing).
 
 **Alive IPs and Websites**
 Sites discussed that are currently alive and likely host infrastructure, malware or are decoys.
