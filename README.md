@@ -20,7 +20,7 @@ I intend to do a form of deep-dive on every individual listed:
 1. [Anton Alexandrovich Bragin](members/hector) (hector)
 2. [Cherepanov Andrey Andreevich](members/basil) (basil, fast, faster)
 3. [Chernov Mikhail Vadimovich](members/bullet) (bullet)
-4. [Galochkin Maxim Sergeevich](members/manuel) (bentley)
+4. [Galochkin Maxim Sergeevich](members/bentley) (bentley)
 5. [Grigoriev Daniil Olegovich](members/fire) (fire, geralemur, skippy, lemur)
 6. [Chernov Mikhail Vadimovich](members/toris) (toris)
 7. [Kiselyov Dmitry Sergeevich](members/allen) (allen)
